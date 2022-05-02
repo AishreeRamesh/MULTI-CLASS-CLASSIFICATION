@@ -1,4 +1,6 @@
-# MULTI-CLASS-CLASSIFICATION
+### EX NO:03
+### DATE:
+# <p align="center">MULTI-CLASS-CLASSIFICATION<p/>
 ## AIM:
 
 To write a python program to implement the multi class classification algorithm .
@@ -22,6 +24,7 @@ In multi-class classification, the neural network has the same number of output 
 ## PROGRAM:
 
 ```python
+
 #Program to implement the multi class classifier.
 #Developed by: Aishree Ramesh
 #RegisterNumber: 212220230003
